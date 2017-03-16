@@ -8,7 +8,7 @@ para lleva a cabo la transferencia de información.
 ## Capturas
 *Funcionamiento de la aplicacion*.
 ## Contribuciones
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://gist.github.com/MauMorris/de3d23cd7c14804fbcae4db0f9afe650) for details on our code of conduct, and the process for submitting pull requests to us.
 ## Authors
 Esta aplicación esta basada en la utilizacion del software muestra de Arduino para interfazar el micro controlador con una PC con Windows El diseño así como los esquemáticos y soluciones de bugs son contribuciones propias.
 * Mauricio Godinez [@VibrasDeMorris](https://twitter.com/vibrasdemorris) [contributors](https://github.com/MauMorris)
